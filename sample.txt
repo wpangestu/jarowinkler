@@ -1,0 +1,5 @@
+String 1 :
+Komputer digunakan banyak kalangan diberbagai bidang Pendidikan dan Institusi
+
+String 2 :
+Komputer digunakan banyak kalangan untuk bekerja
